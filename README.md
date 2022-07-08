@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
+#Features 
+User Can create their seperate profile with proper authontication
+User can search for the nutrition value food.
+User can store thir fabrote food to their cart for future use
+USADA food API is used to get food nutritions
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
